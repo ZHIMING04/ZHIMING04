@@ -1,4 +1,4 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (ZHIMING(04|nd TAN)|https://zhiming.tan)" title="👋 Hi there! I'm (ZHIMING(04|nd TAN)|https://zhiming.tan)"/>]([https://zhiming.tan/])
+[<img src="https://raw.githubusercontent.com/ZHIMING04/ZHIMING04/master/intro.gif" alt="👋 Hi there! I'm (Zhiming Li)|https://zhiming.li)" title="👋 Hi there! I'm (Zhiming Li)|https://zhiming.li)"/>](https://zhiming.li/)
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=ZHIMING04.ZHIMING04&color=00cf00)
 <!--
