@@ -57,7 +57,7 @@ to develop my programming project
 	- 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚎 𝚌𝚘𝚍𝚎 𝚝𝚘 𝚝𝚑𝚎 [𝙻𝚒𝚗𝚞𝚡 𝚔𝚎𝚛𝚗𝚎𝚕](https://github.com/torvalds/linux)
 	- Become the CTO of a Tech Giants😎
 	- Exposure to the field of artificial intelligence (I am studying data field rn , not much time to learn other thing....)
-	- ~~Get a good internship (if you have this power to hire , please do so😛)~~ Hihi,Tesla[<img src="socials/Tesla_logo.png" height="30em" align="center" alt="Tesla" title="Tesla"/>](https://www.jetbrains.com/clion](https://www.tesla.com/en_my) 
+	- ~~Get a good internship (if you have this power to hire , please do so😛)~~ Hihi,Tesla[<img src="socials/Tesla_logo.png" height="30em" align="center" alt="Tesla" title="Tesla"/>](https://www.tesla.com/en_my) 
 - 🤔 𝙻𝚒𝚜𝚝 𝚘𝚏 𝚒𝚜𝚜𝚞𝚎𝚜 𝙸 𝚗𝚎𝚎𝚍 𝚑𝚎𝚕𝚙 𝚠𝚒𝚝𝚑:
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟹𝟼](https://github.com/Raymo111/i3lock-color/issues/136)
 	- [𝚑𝚝𝚝𝚙𝚜://𝚐𝚒𝚝𝚑𝚞𝚋.𝚌𝚘𝚖/𝚁𝚊𝚢𝚖𝚘𝟷𝟷𝟷/𝚒𝟹𝚕𝚘𝚌𝚔-𝚌𝚘𝚕𝚘𝚛/𝚒𝚜𝚜𝚞𝚎𝚜/𝟷𝟻𝟿](https://github.com/Raymo111/i3lock-color/issues/159)
