@@ -1,8 +1,8 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (ZHIMING(04| TAN)|https://zhiming.tan)" title="👋 Hi there! I'm (ZHIMING(04| TAN)|https://zhiming.tan)"/>]([https://zhiming.tan/])
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (ZHIMING(04|nd TAN)|https://zhiming.tan)" title="👋 Hi there! I'm (ZHIMING(04|nd TAN)|https://zhiming.tan)"/>]([https://zhiming.tan/])
 
 ![visitors](https://vbr.wocr.tk/badge?page_id=ZHIMING04.ZHIMING04&color=00cf00)
 <!--
-**Raymo111/Raymo111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ZHIMING04/ZHIMNG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
