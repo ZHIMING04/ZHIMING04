@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 </table>
 -->
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🖥 Data engineer with big ideas
+- 🖥 Data engineer with big ideas.
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Bachelor of Computer Science (Data Engineering) 𝚊𝚝 𝚝𝚑𝚎 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 Teknologi Malaysia, 𝚐𝚛𝚊𝚍𝚞𝚊𝚝𝚒𝚗𝚐 October 𝟸0𝟸7
 - 🌐 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚊𝚌𝚌𝚎𝚜𝚜 𝚊𝚕𝚕 𝚖𝚢 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚑𝚎𝚛𝚎 𝚘𝚗 𝙶𝚒𝚝𝙷𝚞𝚋 𝚘𝚛 𝚘𝚗 click [HERE](https://aur.archlinux.org/packages/?SeB=M&K=Raymo111)
 - 𝚋𝚝𝚠 𝙸 𝚞𝚜𝚎 CLion[<img src="socials/clion-icon-512x512-tvyolucv.png" height="30em" align="center" alt="CLion Logo" title="CLion Logo"/>](https://www.jetbrains.com/clion) and VS Code [<img src="socials/Visual_Studio_Code_1.35_icon.svg.png" height="30em" align="center" alt="VS Code Logo" title="VS Code Logo"/>](https://vscode.dev/)
