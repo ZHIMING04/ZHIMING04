@@ -79,7 +79,7 @@ to develop my programming project
 -->
 
 ## 🔔 MEE and my FREN :)
-[<img src="photo_2023-12-28_20-58-21.jpg" height="30em" align="center" alt="Trip at PENANG" title="At Escape Park!"/>]
+<img src="photo_2023-12-28_20-58-21.jpg" align="center" alt="Trip at PENANG" title="At Escape Park!"/>
 
 ## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎 𝚊𝚝 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚒𝚗 𝚖𝚢 𝚐𝚒𝚝𝚑𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎. 𝙵𝚘𝚕𝚕𝚘𝚠 𝚖𝚢 𝚜𝚘𝚌𝚒𝚊𝚕𝚜!
