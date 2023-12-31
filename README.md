@@ -89,7 +89,7 @@ to develop my programming project
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/instagram.svg" height="40em" align="center" alt="Follow Reynard0411 on Instagram" title="Follow Reynard0411 on Instagram"/>](https://www.instagram.com/reynard0411?igshid=YTQwZjQ0NmI0OA==)
 
 ## ⚡ Academic Source
-# You can get mine notes through below links 😎
+# You can get my notes/assignment through below links 😎
 - Discrete Structure [Link to DS ](academic/DS)
 - Digital Logic [Link to DL](academic/DL)
 - Programming Technique I [Link to PT](academic/PT)
