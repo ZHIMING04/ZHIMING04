@@ -90,9 +90,9 @@ to develop my programming project
 
 ## ⚡ Academic Source
 # You can get mine notes through below links 😎
-- Discrete Structure [Link to File in Folder](.academic/DS)
-- Digital Logic [Link to File in Folder](.academic/DL)
-- Programming Technique I [Link to File in Folder](.academic/PT)
-- Technology Information System [Link to File in Folder](.academic/TIS)
+- Discrete Structure [Link to DS ](academic/DS)
+- Digital Logic [Link to DL(academic/DL)
+- Programming Technique I [Link to PT](academic/PT)
+- Technology Information System [Link to TIS](academic/TIS)
 <!--
 -->
