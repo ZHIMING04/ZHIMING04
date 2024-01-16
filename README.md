@@ -51,6 +51,15 @@ to develop my programming project
 - Video/photo editing skill (Tools like Photoshop , Davinci , filmora ，capcut )🎥
 - Good athletic ability🤸‍♂️
 
+## Certificate
+- SPM (9A1B)
+- MUET (4.O)
+- MATRIK CGPA (4.0)
+
+## AWARD
+- INTERNATIONAL KANGAROO MATH COMPETITION (BRONZE)
+- National STEM EVENT Rocket Project (GOLD)
+
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
 ```yaml
