@@ -49,6 +49,7 @@ to develop my programming project
 - Programming language such like JavaScript , Phyton , C++ and R🖥️
 - Good communication skill (been worked as a customer service) 🎧
 - Video/photo editing skill (Tools like Photoshop , Davinci , filmora ，capcut )🎥
+- Good athletic ability🤸‍♂️
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
