@@ -1,4 +1,4 @@
-# Reflection from talk given by Mr Habib (GetMeHired) and PPG
+# Reflection from talk given by Mr Habib (GetMeHired) and PPG🛢️
 
 Mr. Habib's talk underscored the critical role of resumes and portfolios in securing employment, prompting me to reevaluate my approach. The speaker's insights heightened my awareness of their significance in the competitive job market. Inspired, I took immediate action by initiating a GitHub portfolio, recognizing its potential to showcase my skills and projects. Navigating the challenges of this new endeavor, I learned valuable lessons about presentation and self-marketing. This experience not only enhanced my technical abilities but also provided a tangible representation of my capabilities. Moving forward, I am confident that my GitHub portfolio will serve as a powerful tool in my job search, aligning with Mr. Habib's advice and propelling me towards career success.
 
