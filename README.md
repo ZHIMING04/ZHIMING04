@@ -58,7 +58,7 @@ to develop my programming project
 
 ## AWARD🏆
 - INTERNATIONAL KANGAROO MATH COMPETITION (BRONZE🥉)
-- National STEM EVENT Rocket Project (GOLD🥇)[CERT](Capai_1_52 TAN ZHI MING  ( 041118011233 )  EMAS  REKACIPTA_zz.pdf)
+- National STEM EVENT Rocket Project (GOLD🥇) [Link to CERT](Capai_1_52 TAN ZHI MING  ( 041118011233 )  EMAS  REKACIPTA_zz.pdf)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
