@@ -58,7 +58,7 @@ to develop my programming project
 
 ## AWARD🏆
 - INTERNATIONAL KANGAROO MATH COMPETITION (BRONZE🥉)
-- National STEM EVENT Rocket Project (GOLD🥇) [Link to DS ](academic/DS)
+- National STEM EVENT Rocket Project (GOLD🥇)
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
