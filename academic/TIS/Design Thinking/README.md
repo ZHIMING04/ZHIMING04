@@ -1,7 +1,3 @@
 # Reflection of DESIGN THINKING🧠
 
-For this course, I'm dedicated to mastering data engineering, leveraging the 2U2I program 
-for fast IoT industry entry. Design thinking sharpens my problem-solving across IT roles, 
-maintaining a lifelong learning approach, especially in data engineering. This assignment 
-emphasizes early design thinking, optimizing educational software for improved student and 
-developer outcomes.
+Dedicated to mastering data engineering, my commitment is fortified through the 2U2I program, propelling me swiftly into the IoT industry. Design thinking has become a linchpin, refining my problem-solving skills across diverse IT roles, fostering a user-centric approach. Embracing lifelong learning, I stay agile in the dynamic field of data engineering. This assignment, emphasizing early design thinking, resonates deeply with my approach. My goal is to optimize educational software, marrying technical prowess with user needs, ensuring efficient and impactful solutions. This dual commitment to technical expertise and human-centric design positions me as a versatile professional ready to contribute to the evolution of data engineering, with a specific focus on enhancing student and developer outcomes in the educational software landscape.
