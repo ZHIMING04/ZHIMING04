@@ -106,9 +106,9 @@ to develop my programming project
 
 ## ⚡ Academic Source
 # You can get my notes/assignment through below links 😎
-- Discrete Structure [Link to DS ](academic/DS)
-- Digital Logic [Link to DL](academic/DL)
-- Programming Technique I [Link to PT](academic/PT)
-- Technology Information System [Link to TIS](academic/TIS)
+- 📊Discrete Structure               [Link to DS ](academic/DS)
+- 🎛️Digital Logic                    [Link to DL](academic/DL)
+- 🖥️Programming Technique I          [Link to PT](academic/PT)
+- 🔏Technology Information System    [Link to TIS](academic/TIS)
 <!--
 -->
