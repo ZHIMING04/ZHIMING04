@@ -1,6 +1,5 @@
 [<img src="zhimingIntro.gif" alt="👋 Hi there! I'm (Zhiming Tan)|https://zhiming.tan)" title="👋 Hi there! I'm (Zhiming Tan)|https://zhiming.tan)"/>](https://zhiming.tan/)
 
-![visitors](https://vbr.wocr.tk/badge?page_id=ZHIMING04.ZHIMING04&color=00cf00)
 <!--
 **ZHIMING04/ZHIMNG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
