@@ -25,7 +25,7 @@
 - 🚀 **Finalist** – Microsoft AI Hackathon.
 
 ## ⚡ Current Startup: Koo'Q
-### [Visit KooQ.my](https://kooq.my/)
+### [Visit Koo'Q.my](https://kooq.my/)
 **Koo'Q** is an event management platform focusing on building a comprehensive dataset of student skills for AI matching.
 
 > *Formerly known as Catalyst Sandbox, we have pivoted and rebranded to better serve the student startup ecosystem.*
