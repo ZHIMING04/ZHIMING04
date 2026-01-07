@@ -24,15 +24,15 @@
 - 🎖️ **Consolation Prize** – National Micro Enterprise Pitching Competition 3.0 (for Koo'Q).
 - 🚀 **Finalist** – Microsoft AI Hackathon.
 
-## ⚡ Current Startup: KooQ
+## ⚡ Current Startup: Koo'Q
 ### [Visit KooQ.my](https://kooq.my/)
-**KooQ** is an event management platform focusing on building a comprehensive dataset of student skills for AI matching.
+**Koo'Q** is an event management platform focusing on building a comprehensive dataset of student skills for AI matching.
 
 > *Formerly known as Catalyst Sandbox, we have pivoted and rebranded to better serve the student startup ecosystem.*
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🔨 **Currently:**
-  - Developing the architecture for **KooQ**.
+  - Developing the architecture for **Koo'Q**.
   - Working on Student Information & HR Systems for university projects.
   - Planning my **Work and Travel (WAT) USA** trip for 2027! 🇺🇸
 - 🎯 **Near Future:**
