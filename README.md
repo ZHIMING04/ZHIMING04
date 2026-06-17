@@ -1,110 +1,156 @@
 [<img src="zhimingIntro.gif" alt="👋 Hi there! I'm Zhiming Tan" width="100%"/>](https://zhiming.tan/)
 
-<h1 align="center">Hi 👋, I'm Zhi Ming Tan</h1>
-
-<h3 align="center">
-Data Engineering Student • Cloud Enthusiast • Startup Builder
-</h3>
+````markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Zhi%20Ming%20Tan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Student%20%7C%20Cloud%20Builder%20%7C%20Founder%20of%20Koo'Q&descAlignY=58&descSize=16" />
+</p>
 
 <p align="center">
-Building systems, data pipelines, and products that connect talent with opportunities.
+  <a href="https://kooq.my">
+    <img src="https://img.shields.io/badge/Building-Koo'Q-2563eb?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/zhimingtan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Zhi%20Ming%20Tan-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ZHIMING04&label=Profile%20Views&color=2563eb&style=for-the-badge" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-🎓 Year 3 Bachelor of Computer Science (Data Engineering) @ Universiti Teknologi Malaysia (UTM)
+I'm **Zhi Ming Tan**, a Year 3 **Data Engineering student at Universiti Teknologi Malaysia (UTM)**.
 
-🏆 Maintaining a CGPA of **3.98**
+I enjoy building systems that combine **data, cloud infrastructure, automation, and real-world product thinking**.
 
-☁️ Former **Cloud Database Engineering Intern @ PETRONAS Digital**
+Currently, I am building **Koo'Q**, a talent verification engine that helps organizations discover high-potential students through competitions, events, achievements, and practical activities.
 
-💡 Founder of **Koo'Q** — a talent verification & opportunity matching ecosystem
-
-🛠️ IT Consultant for **Nexscholar**
-
-🌱 Currently exploring:
-
-- Data Engineering
-- Cloud Infrastructure
-- DevOps & Automation
-- Event-Driven Architecture
-- AI-powered Systems
+```yaml
+name: Zhi Ming Tan
+focus: Data Engineering, Cloud, DevOps, Automation
+cgpa: 3.98
+university: Universiti Teknologi Malaysia
+current_build: Koo'Q
+previous_internship: Cloud Database Engineering Intern @ PETRONAS Digital
+````
 
 ---
 
-## 🏗 What I'm Building
+## 🚀 What I'm Building
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔥 Koo'Q
 
-Koo'Q is building a talent verification engine designed to help organizations discover high-potential talent through competitions, events, achievements, and real-world activities.
+A talent verification and opportunity matching ecosystem.
 
-Instead of relying solely on resumes, Koo'Q aims to create a richer talent dataset that helps opportunities find people.
+Koo'Q helps transform student activities, competitions, and achievements into meaningful talent data.
 
-🌐 Website: https://kooq.my
+Instead of relying only on resumes, Koo'Q aims to help opportunities discover people through proof of action.
 
----
+🌐 **Website:** [kooq.my](https://kooq.my)
 
-## ⚙️ Tech Stack
+</td>
+<td width="50%">
 
-### Programming
+### 🛠 Current Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+* Building scalable data-driven systems
+* Improving cloud and DevOps skills
+* Designing better talent datasets
+* Exploring event-driven architecture
+* Preparing for 2u2i internship
 
-### Cloud & Data
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Development
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏅 Achievements
-
-🥇 1st Place — Business Innovation Challenge
-
-🌏 Represented UTM at the 5th AJBIEX International Competition, Jakarta
-
-🥇 Gold Award — National STEM Rocket Project
-
-🚀 Finalist — Microsoft AI Hackathon
-
-🏅 Consolation Prize — National Micro Enterprise Pitching Competition
-
----
-
-## 📊 GitHub Stats
+## 🧰 Tech Stack
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZHIMING04&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZHIMING04&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://skillicons.dev/icons?i=python,js,cpp,laravel,react,mysql,aws,azure,git,github,vscode" />
+
+</p>
+
+### Areas I’m Growing In
+
+```text
+Data Engineering     █████████░░
+Cloud Infrastructure ████████░░░
+Backend Development  ████████░░░
+DevOps Automation    ███████░░░░
+AI Product Building  ███████░░░░
+```
+
+---
+
+## 🏆 Highlights
+
+| Achievement                     | Details                                        |
+| ------------------------------- | ---------------------------------------------- |
+| 🥇 1st Place                    | Business Innovation Challenge                  |
+| 🌏 International Representative | Represented UTM at 5th AJBIEX, Jakarta         |
+| 🥇 Gold Award                   | National STEM Rocket Project                   |
+| 🚀 Finalist                     | Microsoft AI Hackathon                         |
+| 🏅 Consolation Prize            | National Micro Enterprise Pitching Competition |
+
+---
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ZHIMING04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZHIMING04&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ZHIMING04&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
 
-## 🎯 Current Focus
+## 🎯 2026 Direction
 
-```yaml
-2026:
-  - Secure a Data Engineering Internship
-  - Deepen Cloud & DevOps Skills
-  - Scale Koo'Q Talent Dataset
-  - Build Production-Ready Data Pipelines
+```mermaid
+flowchart LR
+    A[Data Engineering] --> B[Cloud Infrastructure]
+    B --> C[DevOps & Automation]
+    C --> D[Production Systems]
+    D --> E[Koo'Q Talent Engine]
 ```
 
 ---
 
 ## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/zhimingtan/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://www.instagram.com/reynard0411">
+    <img src="https://img.shields.io/badge/Instagram-reynard0411-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://kooq.my">
+    <img src="https://img.shields.io/badge/Website-Koo'Q-111827?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Build systems that scale. Build products that matter."</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=120&section=footer" />
+</p>
+```
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zhimingtan/)
 
