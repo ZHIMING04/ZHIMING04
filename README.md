@@ -1,6 +1,5 @@
 [<img src="zhimingIntro.gif" alt="👋 Hi there! I'm Zhiming Tan" width="100%"/>](https://zhiming.tan/)
 
-````markdown
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Zhi%20Ming%20Tan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Student%20%7C%20Cloud%20Builder%20%7C%20Founder%20of%20Koo'Q&descAlignY=58&descSize=16" />
 </p>
@@ -25,14 +24,13 @@ I enjoy building systems that combine **data, cloud infrastructure, automation, 
 
 Currently, I am building **Koo'Q**, a talent verification engine that helps organizations discover high-potential students through competitions, events, achievements, and practical activities.
 
-```yaml
 name: Zhi Ming Tan
 focus: Data Engineering, Cloud, DevOps, Automation
 cgpa: 3.98
 university: Universiti Teknologi Malaysia
 current_build: Koo'Q
 previous_internship: Cloud Database Engineering Intern @ PETRONAS Digital
-````
+
 
 ---
 
