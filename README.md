@@ -9,12 +9,6 @@ I enjoy building systems that combine **data, cloud infrastructure, automation, 
 
 Currently, I am building **Koo'Q**, a talent verification engine that helps organizations discover high-potential students through competitions, events, achievements, and practical activities.
 
-name: Zhi Ming Tan
-focus: Data Engineering, Cloud, DevOps, Automation
-cgpa: 3.98
-university: Universiti Teknologi Malaysia
-current_build: Koo'Q
-previous_internship: Cloud Database Engineering Intern @ PETRONAS Digital
 
 
 ---
