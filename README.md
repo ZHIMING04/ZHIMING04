@@ -16,7 +16,7 @@ Building systems, data pipelines, and products that connect talent with opportun
 
 🎓 Year 3 Bachelor of Computer Science (Data Engineering) @ Universiti Teknologi Malaysia (UTM)
 
-🏆 Maintaining a CGPA of **4.00**
+🏆 Maintaining a CGPA of **3.98**
 
 ☁️ Former **Cloud Database Engineering Intern @ PETRONAS Digital**
 
