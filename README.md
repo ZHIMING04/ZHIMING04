@@ -1,19 +1,4 @@
 [<img src="zhimingIntro.gif" alt="👋 Hi there! I'm Zhiming Tan" width="100%"/>](https://zhiming.tan/)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Zhi%20Ming%20Tan&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Engineering%20Student%20%7C%20Cloud%20Builder%20%7C%20Founder%20of%20Koo'Q&descAlignY=58&descSize=16" />
-</p>
-
-<p align="center">
-  <a href="https://kooq.my">
-    <img src="https://img.shields.io/badge/Building-Koo'Q-2563eb?style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/zhimingtan/">
-    <img src="https://img.shields.io/badge/LinkedIn-Zhi%20Ming%20Tan-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ZHIMING04&label=Profile%20Views&color=2563eb&style=for-the-badge" />
-</p>
-
 ---
 
 ## 👋 About Me
