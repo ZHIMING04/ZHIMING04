@@ -10,15 +10,13 @@ I enjoy building systems that combine **data, cloud infrastructure, automation, 
 Currently, I am building **Koo'Q**, a talent verification engine that helps organizations discover high-potential students through competitions, events, achievements, and practical activities.
 
 
-
 ---
 
 ## 🚀 What I'm Building
 
 <table>
 <tr>
-<td width="50%">
----
+<td width="50%" valign="top">
 
 ### 🔥 Koo'Q
 
@@ -31,30 +29,25 @@ Instead of relying only on resumes, Koo'Q aims to help opportunities discover pe
 🌐 **Website:** [kooq.my](https://kooq.my)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-## 🎓 Academic ePortfolio
+### 🎓 Academic ePortfolio
 
-<table>
-<tr>
-<td width="60%">
+My Data Engineering learning journey from **Year 1 to Year 3**.
 
-### 📘 My Data Engineering Learning Journey
+I documented the courses I completed, projects I built, skills I demonstrated, and reflections from each semester.
 
-I documented my academic journey from **Year 1 to Year 3**, including the courses I completed, projects I built, skills I demonstrated, and reflections from each semester.
+The ePortfolio covers:
 
-The ePortfolio covers my growth in:
+- Data Engineering
+- Cloud & Azure Data Pipelines
+- Business Intelligence
+- Full-Stack System Development
+- Artificial Intelligence
+- Database & System Design
+- Industry-Based Projects
 
-* Data Engineering
-* Cloud & Azure Data Pipelines
-* Business Intelligence
-* Full-Stack System Development
-* Artificial Intelligence
-* Database & System Design
-* Industry-Based Projects
-
-</td>
-<td width="40%" align="center">
+<br>
 
 <a href="https://zhiming04.github.io/eportfolio/">
   <img src="https://img.shields.io/badge/View%20My%20ePortfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
@@ -62,9 +55,7 @@ The ePortfolio covers my growth in:
 
 <br><br>
 
-<a href="https://zhiming04.github.io/eportfolio/">
-  <b>🌐 zhiming04.github.io/eportfolio</b>
-</a>
+🌐 **Link:** [zhiming04.github.io/eportfolio](https://zhiming04.github.io/eportfolio/)
 
 </td>
 </tr>
