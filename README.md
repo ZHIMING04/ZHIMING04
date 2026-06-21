@@ -14,10 +14,6 @@ Currently, I am building **Koo'Q**, a talent verification engine that helps orga
 
 ## 🚀 What I'm Building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔥 Koo'Q
 
 A talent verification and opportunity matching ecosystem.
@@ -28,16 +24,15 @@ Instead of relying only on resumes, Koo'Q aims to help opportunities discover pe
 
 🌐 **Website:** [kooq.my](https://kooq.my)
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🎓 Academic ePortfolio
+## 🎓 Academic ePortfolio
 
-My Data Engineering learning journey from **Year 1 to Year 3**.
+### 📘 My Data Engineering Learning Journey
 
-I documented the courses I completed, projects I built, skills I demonstrated, and reflections from each semester.
+My ePortfolio documents my academic journey from **Year 1 to Year 3**, including the courses I completed, projects I built, skills I demonstrated, and reflections from each semester.
 
-The ePortfolio covers:
+It covers my growth in:
 
 - Data Engineering
 - Cloud & Azure Data Pipelines
@@ -47,20 +42,15 @@ The ePortfolio covers:
 - Database & System Design
 - Industry-Based Projects
 
-<br>
+<p align="center">
+  <a href="https://zhiming04.github.io/eportfolio/">
+    <img src="https://img.shields.io/badge/View%20My%20ePortfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://zhiming04.github.io/eportfolio/">
-  <img src="https://img.shields.io/badge/View%20My%20ePortfolio-2563EB?style=for-the-badge&logo=githubpages&logoColor=white" />
-</a>
-
-<br><br>
-
-🌐 **Link:** [zhiming04.github.io/eportfolio](https://zhiming04.github.io/eportfolio/)
-
-</td>
-</tr>
-</table>
-
+<p align="center">
+  🌐 <b>Link:</b> <a href="https://zhiming04.github.io/eportfolio/">zhiming04.github.io/eportfolio</a>
+</p>
 ### 🛠 Current Focus
 
 * Building scalable data-driven systems
