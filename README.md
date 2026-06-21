@@ -20,6 +20,19 @@ Currently, I am building **Koo'Q**, a talent verification engine that helps orga
 <td width="50%">
 ---
 
+### 🔥 Koo'Q
+
+A talent verification and opportunity matching ecosystem.
+
+Koo'Q helps transform student activities, competitions, and achievements into meaningful talent data.
+
+Instead of relying only on resumes, Koo'Q aims to help opportunities discover people through proof of action.
+
+🌐 **Website:** [kooq.my](https://kooq.my)
+
+</td>
+<td width="50%">
+
 ## 🎓 Academic ePortfolio
 
 <table>
@@ -56,19 +69,6 @@ The ePortfolio covers my growth in:
 </td>
 </tr>
 </table>
-
-### 🔥 Koo'Q
-
-A talent verification and opportunity matching ecosystem.
-
-Koo'Q helps transform student activities, competitions, and achievements into meaningful talent data.
-
-Instead of relying only on resumes, Koo'Q aims to help opportunities discover people through proof of action.
-
-🌐 **Website:** [kooq.my](https://kooq.my)
-
-</td>
-<td width="50%">
 
 ### 🛠 Current Focus
 
